@@ -1,0 +1,6 @@
+framework module Pods_PayTool_Example {
+  umbrella header "Pods-PayTool_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

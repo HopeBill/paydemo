@@ -1,0 +1,6 @@
+framework module PayTool {
+  umbrella header "PayTool-umbrella.h"
+
+  export *
+  module * { export * }
+}

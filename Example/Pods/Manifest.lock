@@ -1,0 +1,16 @@
+PODS:
+  - PayTool (0.1.0)
+
+DEPENDENCIES:
+  - PayTool (from `../`)
+
+EXTERNAL SOURCES:
+  PayTool:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PayTool: 94f43277fe50e25e1ee90198480a4a6bbf131ab9
+
+PODFILE CHECKSUM: 2fe9d8838a77cf567a904a34c37d8ea61b2313d4
+
+COCOAPODS: 1.5.3
